@@ -1,0 +1,280 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom"><title>The "humble" blog of Philoponus Bindle</title>
+<link href="https://philoponus.net"/>
+<id>urn:uuid:95b20367-b6b8-4f66-9985-9c58d76aa8b6</id>
+<updated>2020-06-05T12:16Z</updated>
+<author><name>Philoponus Bindle</name></author>
+<entry><title>The Dashboard</title>
+<subtitle>Its Etymology and Function</subtitle>
+<link href="https://philoponus.net/article/dashboard.html"/>
+<id>urn:uuid:3b650a1b-5fb5-4c72-800e-acb1cfa1fdd9</id>
+<updated>2020-06-05T12:16Z</updated>
+<published>2020-02-03T12:00Z</published>
+<content type="html">&lt;article>
+&lt;h1>The Dashboard&lt;/h1>
+&lt;h2 class="subtitle">Its Etymology and Function&lt;/h2>
+
+&lt;img class="main" src="../image/dashboard.png">
+
+&lt;p>
+When hearing the word "dashboard", perhaps two definitions spring to mind. The
+first and most common is the dashboard of a car, with its instruments that
+provide important but secondary information. The primary information being that
+which is on the road itself, as of course it is more important when one is
+driving that they do not hit the other cars on the road rather than obey the speed limit
+to the specific digit. The other definition is the dashboard of a web app or similar,
+which provides some condensed information about some system or service so
+that it can be monitored. How truly useful that information is in a specific
+dashboard is variable, many professionals relying heavily on some specific
+dashboard, others being keenly aware that such-and-such a dashboard is utterly
+useless.
+&lt;/p>
+
+&lt;p>
+But the word "dashboard" itself used to have nothing to do with
+displaying information. A folk etymology may go something like: a
+dashboard is a board that information "dashes" to, or one that
+someone can "read in a dash". Here dash conveys the meaning of speed or
+quickness, but in dashboard's original usage dash was used to mean "hit",
+such as in the phrase "the ship was &lt;em>dashed&lt;/em> against the rocks". The
+dashboard was the board of the carriage that protected the passengers from the
+mud that was kicked up by horses. It was a board for that mud to &lt;a href="https://www.etymonline.com/word/dashboard" title="dashboard at
+    Etymology Online Dictionary">dash against&lt;/a>.
+&lt;/p>
+
+&lt;p>
+From that, the "dashboard" of a car comes naturally from its position in the
+car which mirrored that of the dashboard of the carriage. While the dashboard
+in a computer application comes thence by their common usage for
+conveying information. Reasonable enough... but software dashboards as a tool evolved
+before the term was applied to them. They were precursed by programs designed to provide
+high-level data to executives for making business decisions (still a primary
+purpose of the modern dashboard, although now not the only one), which— like
+another overly-ambitious-and-ultimately-doomed-to-fail program concepts of the
+80s: "expert systems"— was given a very literal named that ended in the very generic "systems", namely &lt;a href="https://en.wikipedia.org/wiki/Executive_information_system">"executive
+information systems"&lt;/a>.
+&lt;/p>
+
+&lt;p>
+So our conception of the sleek, modern, web app dashboard emerges from two veins of
+history, one formal and one material. The latter gives it the lofty role of
+providing all the critical information necessary to business executives needed
+to make critical business-level decisions (note that "business-level" convokes
+importance and significance, but also detachment, without detail,
+corporate) and the former gives it the role of catching mud. The
+analogy takes form: the dashboards conjoin and the information dashed
+against our computer screens is seen for what it is, mud kicked up by horses.
+&lt;/p>
+
+&lt;p>
+For the 19th century carriage driver though, it is the horses, the road, and the
+carriage itself that they watch when driving. Even for the automobile driver
+the dashboard is secondary. The experienced drivers watches the car and the road
+first. But if the executives are as they would
+like to position themselves in the metaphor of the carriage as the company,
+as being the drivers of the cart, then they are not the proper, trained and elegant
+carriage drivers purported, but rather has been inaugurated&lt;sup id="ref-1-1">&lt;a href="#note-1" title="On the word &quot;inaugurated&quot;">1&lt;/a>&lt;/sup>
+as the corporate diviner, the hierophant who alone has the privilege to speak
+with the gods. They in their folly try to read the patterns of mud on the
+dashboard, patterns which must, as &lt;em>hard numbers&lt;/em> and &lt;em>descriptive
+charts&lt;/em> must, give all the bits and pieces needed to turn the carriage left
+or right, or hire and fire this employee or that, or work with some partner
+company or another.
+&lt;/p>
+
+&lt;p>
+And this is no trifle of a comparison! Businesses are no longer physical things,
+but rather aggregates of arcane numbers. To the manager of the rank-and-file
+worker, regardless of how many will purport otherwise, what matters is not the
+person who is the worker themself, their skill and ability, their personality or candor.
+No! All those are secondary. What matters is whatever arbitrary
+measure of performance has been decided on by the manager or their
+superiors.&lt;sup id="ref-2-1">&lt;a href="#note-2" title="On the word &quot;superior&quot;">2&lt;/a>&lt;/sup> Even when it is clear that
+the numbers are meaningless, and admitted so by those using them, they must be
+had. For to have no numbers is to be blind! There is no longer any other path
+to understanding.
+&lt;/p>
+
+&lt;p class="quote">
+No longer is the "measure" an approximation of the real, it is now the
+&lt;strong>real itself!&lt;/strong>
+&lt;/p>
+
+&lt;p>
+And this applies equally to those above the manager, who invoke similar
+measures, and then all the way up the priestly hierarchy to the executives and CEO, whose
+decisions, companies and lives are ultimately at the whim of the one superior
+number and measure to which all others are beholden: capital value. Normally,
+for the company which does not have outside investors (be that in private 
+or public markets), this is felt more directly, with revenue and
+profit margins. But for the majority, these fluxes of capital value comes through a
+strange machine with a plethora gauges, dials, buttons and gizmos. So many that one of
+those experts of the stock market has taken to calling the movement of stock
+prices a "Random Walk".
+&lt;/p>
+
+&lt;p>
+Of course, for all those professional investors whose esoteric methods of "analysis" are
+&lt;a href="https://us.spindices.com/documents/spiva/spiva-us-year-end-2016.pdf?mod=article_inline" title="SPIVA U.S. Year-End 2016 Scorecard">not
+sufficient to beat the index&lt;/a>, there are some who are blessed with the actual
+ability to commune with the corporate gods. Of course this direct communication
+with the gods of the stock market, those who cause tickers to rise and fall as
+Luna does the tides, is condemned (when made public) as the blasphemous "insider
+trading". But for the rest, those arcane numbers must be resorted to. That is
+not to say that there is no place for pure fundamentalists (in both senses of
+the word) to make money from these numbers, but regardless of this truth, the
+relationship remains just between numbers: whether fundamentals translate to
+making money or not does not change based on the reality of the company, but
+numbers that are the fundamentals themselves. Not their basis in reality. For
+the reality of what those numbers mean, and how they translate into the numbers
+of one's growing coffers, have become as removed from reality an urban
+astrologist who can no longer even find Venus in the night sky (or see it if
+they found it) is disconnected from any astronomical (or even
+astrological!) meaning. At least W.D. Gann was honest to his methodology.
+&lt;/p>
+
+&lt;p>
+One of the great new tricks of the contemporary era is to make us all
+think that we are investors.&lt;sup id="ref-3-1">&lt;a href="#note-3" title="">3&lt;/a>&lt;/sup>
+Another is that executives are no more and we are all one family, giving the rest of us
+in turn the faux appearance that we must be invested in the company's outcome to
+the extent that an executive is, while failing in truth to give us their powers.
+Or that we too can leverage the same awesome power of the stock market that the
+Wall Street banker leverages, even though, as they say, "you gotta spend money
+to make money", or equivalently, investments even when leveraged
+multiplicatively can only make money proportional to the amount you initially
+invest. The poor still are doomed to be poor. And as our retirement money is turned
+into the loathsome tool for capitalist speculation that is the 401k and its ilk,
+the corporate world teaches, through dashboards and propaganda, that we are the
+numbers we see on the screen.
+&lt;/p>
+
+&lt;p>
+Numbers are inculcated into the psyches of executives, managers and bankers
+today as much as those of the call center worker who knows that if they do not
+meet their quota they will be canned. They manifest in the factory worker (be it
+a physical or mental factory) whose job was moved overseas (or underseas, back
+into unconscious of the market) simply because it was cheaper to hire labor
+there and ship whatever is produced back to its market, or in the grandmother
+whose line of credit on her house intended as a stave against economic ruin was
+only a source of increasing debt and increasing worry... But the system must do
+this. It must extract the maximal amount of labor value and capital value
+possible from people. If it were to do otherwise, if it were to try to have
+compassion or to give people autonomy, it would undermine its own nature. It
+would be denying its own truth, that there is no measure of happiness or success
+other than net worth, the only number that makes anyone worthy of
+anything.
+&lt;/p>
+
+
+
+
+
+&lt;hr>
+
+&lt;footer id="notes">
+&lt;h2>Notes&lt;/h2>
+&lt;ol>
+    &lt;li id="note-1">
+        &lt;p>
+        An &lt;strong>in&lt;em>augur&lt;/em>ation&lt;/strong> is the formal ceremony by which
+        one is inducted into an office of power. It is cognate with the English
+        "augur" which both come through Latin from the PIE root &lt;a href="https://www.etymonline.com/word/*aug-?ref=etymonline_crossreference#etymonline_v_52551" title="*aug- at Etymology Online">*aug-&lt;/a>. The &lt;em>augur&lt;/em> was a
+        role in Roman society who were diviners who worked by the motion birds,
+        weather phenomena and how hens ate the feed spread on the ground for
+        them. The connection to the word "&lt;em>au&lt;/em>thority" has an interesting
+        twist too, for when the Roman general went into battle, the augur performed a
+        sacrifice to determine the auspices for the battle's outcome. And if the
+        auspices were not favorable, they would wait for the next day and then
+        try again. Was the value of the augur to actually commune with some divinity?
+        Well, if that divinity was Rome Herself. The dashboard designer and the augur
+        both appeal to their own manifestations of divinity, the Executives who
+        manifest the divinity of Capital and the Roman Emperor who manifests the divinity
+        of Rome.
+        &lt;/p>
+        &lt;p>
+        The further connections to the inauguration of our political figures,
+        who each truly only exists as a symbol that extrudes the zeitgeist of their
+        era, as the sceptre of authority itself and not its wielder, is not far behind.
+        &lt;/p>
+    &lt;/li>
+    &lt;li id="note-2">
+        &lt;p>
+        For the authority of the corporate hierarchy
+        implies superiority. But as this superiority comes from
+        augury as much as from authority, it is entirely religious in nature.
+        &lt;/p>
+    &lt;/li>
+    &lt;li id="note-3">
+        &lt;p>
+        Through the replacement of pension plans with 401ks that are investment
+        tools, through the increase in employee stock options which give minimal
+        amounts stock, and the rise of personal investment tools that purport to
+        make investing a thing the whole family can enjoy.
+        &lt;/p>
+    &lt;/li>
+&lt;/ol>
+&lt;/footer>
+&lt;/article></content>
+<author><name>Philoponus Bindle</name></author>
+</entry><entry><title>Alice and Zooks</title>
+
+<link href="https://philoponus.net/poem/alice-and-zooks.html"/>
+<id>urn:uuid:40a26d1d-ad70-49e4-a75d-41052e053ccc</id>
+<updated>2020-06-05T12:16Z</updated>
+<published>2019-12-13T12:00Z</published>
+<content type="html">&lt;article>
+&lt;h1>Alice and Zooks&lt;/h1>
+
+&lt;p>
+Round the notsoround (mostly jagged) rock of swiveling shoally shore of the
+stream-not-yet-a-river in banded banter Alice and Zooks juanted along most
+merrily, to fritter away the times of their youth in a not unfounded fear of it
+passing away, or of it becoming something else entirely.
+&lt;/p>
+
+&lt;p>
+"Pictures go into eyes, and words come out of the mouth, but they both go
+through the head, which is why we can say things that refer to things."
+&lt;/p>
+
+&lt;p>
+"But whats in the head doing all that translating work? Seems awfully difficult
+to me; I doubt I could do it if I set me mind upon it. And besides be that for
+you the last time your head rattled around it sounded hollower than me
+grandmother's bone marrow."
+&lt;/p>
+
+&lt;p>
+"But I spoke just before and you understood, verily so? Twould be a twiddle of
+muppery muffins and then some if not!"
+&lt;/p>
+
+&lt;p>
+"Twould be, but twas a ghost that brought our bodies here to this stream, the
+oeuvre of the day and of our heads!"
+&lt;/p>
+
+&lt;p>
+With that the young Jungians of symbol galore brught theemselves forthswitcht to a
+moorish mood, for they remembered that streams always turn to rivers lest they
+run dry and fizzle to fuzz, and their filosophistical theories, the prowess and
+profundity withwhich they betwixt them teenselves (though they be not more than
+twelve and three quarters years or age) to surely be proof thereof. Yet theory
+doesn't get one much farther than where one is always byandbye starting thereie,
+which is why they forgot abot rivers going to oceans and then coming backtowhich
+arond by way of tempertural or occult circumnavigation of the sky to feed fronds
+or to be streams wunce again. By this reason twoo scientists have forgotten
+about the application of science to nonscientific things, the rivers of their
+work being pathways too grounded for water to evaporate off their regular
+surfaces, even at the highest points of their tidal motion. Alas these two are
+influential in their fields. But let us curl the stream of antipurposeful
+digress to regress back upon itself to return to the subject(s) of Alice and
+Zooks. They were not much in the way of scientists.
+&lt;/p>
+
+
+
+&lt;/article></content>
+<author><name>Philoponus Bindle</name></author>
+</entry></feed>

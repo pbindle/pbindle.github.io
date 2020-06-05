@@ -1,0 +1,302 @@
+hr {
+  margin: 6em 0;
+}
+
+header {
+  display: flex;
+}
+
+header h2 {
+  margin: 0;
+  text-align: center;
+}
+
+header p {
+  margin: 0;
+  text-align: center;
+}
+
+header big {
+  font-size: 18pt;
+  line-height: 110%;
+}
+
+#acephale-header {
+  color: #111;
+  text-align: center;
+  text-shadow: -1px -1px 0 #eee,
+                1px -1px 0 #eee,
+               -1px  1px 0 #eee,
+                1px  1px 0 #eee;
+  font-size: 56pt;
+  letter-spacing: .2em;
+  margin: 0;
+  line-height: 110%;
+}
+
+
+#mark {
+  float: left;
+  padding: 0 4em;
+}
+
+#sacred-conspiracy {
+  font-size: 40pt;
+  letter-spacing: .2em;
+  text-align-last: justify;
+}
+
+#the-monster {
+  font-size: 72pt;
+  letter-spacing: .3em;
+  text-align-last: justify;
+}
+
+#unity {
+  font-size: 28pt;
+  letter-spacing: .3em;
+  text-align-last: justify;
+}
+
+.epigram {
+  font-weight: bold;
+}
+
+.translators-note {
+  font-size: 10pt;
+  font-style: italic;
+  text-align: right;
+}
+
+.author-line {
+  font-size: 14pt;
+  font-variant: small-caps;
+}
+
+.caption {
+  font-size: 10pt;
+  font-style: italic;
+  text-align: center;
+  padding-top: 1.5em;
+}
+
+img {
+  display: block;
+  margin: auto;
+}
+
+#fig1 {
+  width: 80%;
+}
+
+#fig2 {
+  width: 70%;
+  padding: 8% 0;
+}
+
+#fig3 {
+  margin: 8% 0;
+}
+
+#fig3 img {
+  width: 50%;
+}
+
+/********** Final page **********/
+
+#final-poem-cont {
+  display: flex;
+}
+
+#fig4 {
+  margin-left: 5%;
+  width: 30%;
+  flex: 0 0 auto;
+}
+
+#final-poem {
+  flex: 1 0 auto;
+  width: 55%;
+  margin-left: 10%;
+}
+
+#final-poem div {
+  line-height: 120%;
+}
+
+#final-poem .line1 {
+  font-size: 28pt;
+}
+
+#final-poem .line2 {
+  font-size: 18pt;
+  text-align: right;
+}
+
+#final-poem .earth,
+#final-poem .heart {
+  font-size: 28pt;
+  line-height: 120%;
+}
+
+#final-poem .line3 {
+  font-size: 10pt;
+}
+
+#final-poem .line4 {
+  font-size: 10pt;
+  text-align: center;
+}
+
+#final-poem .line5 {
+  font-size: 16pt;
+  text-align: right;
+}
+
+#final-poem .line6 {
+  font-size: 18pt;
+}
+
+#final-poem .line7 {
+  font-size: 12pt;
+  text-align: center;
+}
+
+#final-poem .line8 {
+  font-size: 18pt;
+  text-align: center;
+}
+
+#final-poem .line9 {
+  font-size: 18pt;
+  text-align: right;
+}
+
+#escape {
+  text-align-last: justify;
+  letter-spacing: 2pt;
+  margin: 1.5em;
+}
+
+.squiggle {
+  text-align: center;
+  font-weight: bold;
+  margin: 2em 0;
+}
+
+#middle {
+  width: 70%;
+  margin: 2em auto;
+}
+
+#published-by {
+  text-align: center;
+  font-style: italic;
+}
+
+#publisher-address {
+  text-align: center;
+  font-size: 10pt;
+  margin-bottom: 1em;
+}
+
+#page-counts,
+#conditions-of-sale {
+  margin-top: 1em;
+  text-align: justify;
+}
+
+#repair-of-nietzsche {
+  font-size: 36pt;
+  letter-spacing: 2pt;
+  text-align-last: justify;
+  line-height: 120%;
+}
+
+#upcoming {
+  font-size: 10pt;
+  letter-spacing: 1pt;
+  text-align-last: justify;
+  width: 80%;
+  margin: 1em auto;
+}
+
+#sacrifices-fig5-cont {
+  display: flex;
+  flex-direction: row;
+}
+
+#sacrifices {
+  width: 46%;
+  padding: 2%;
+}
+
+#sacrifices div {
+  line-height: 120%;
+}
+
+#sacrifices h1 {
+  font-size: 52pt;
+  letter-spacing: 1pt;
+  margin: .5em 0;
+  text-align-last: justify;
+}
+
+#sacrifices h2 {
+  font-size: 10pt;
+  font-style: italic;
+  text-align-last: justify;
+  margin-bottom: 3em;
+}
+
+#sacrifices .line1 {
+  font-size: 28pt;
+  letter-spacing: 3pt;
+  text-align-last: justify;
+}
+
+#sacrifices .line2 {
+  font-size: 36pt;
+  letter-spacing: 5pt;
+  text-align-last: justify;
+}
+
+#sacrifices .line3 {
+  font-size: 28pt;
+  letter-spacing: 28pt;
+  text-align-last: justify;
+}
+
+#sacrifices .line4 {
+  font-size: 36pt;
+  letter-spacing: 0pt;
+  text-align-last: justify;
+  margin-bottom: 1em;
+}
+
+#sacrifices .line5,
+#sacrifices .line6 {
+  font-size: 12pt;
+  font-style: italic;
+  text-align: center;
+}
+
+#sacrifices .line7 {
+  font-size: 28pt;
+  letter-spacing: 4pt;
+  text-align-last: justify;
+  font-style: italic;
+}
+
+#fig5 {
+  width: 46%;
+  padding: 2%;
+}
+
+#fig5 img {
+  width: 80%;
+}
+
+#last-rule {
+  margin: .5em 0;
+}
