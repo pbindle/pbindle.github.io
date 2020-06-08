@@ -62,6 +62,7 @@ img.main {
 img.right {
   max-width: 50%;
   float: right;
+  padding: .5em;
 }
 
 img.contact-card {
