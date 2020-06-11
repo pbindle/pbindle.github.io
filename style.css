@@ -26,6 +26,10 @@ article .quote {
     font-style: italic;
 }
 
+article .quote em {
+    font-style: normal;
+}
+
 article .quote-name {
     text-align: right;
     padding-right: 5%;
