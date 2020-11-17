@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom"><title>The "humble" blog of Philoponus Bindle</title>
 <link href="https://philoponus.net"/>
 <id>urn:uuid:95b20367-b6b8-4f66-9985-9c58d76aa8b6</id>
-<updated>2020-06-05T12:16Z</updated>
+<updated>2020-11-16T19:14Z</updated>
 <author><name>Philoponus Bindle</name></author>
 <entry><title>The Dashboard</title>
 <subtitle>Its Etymology and Function</subtitle>
@@ -10,13 +10,13 @@
 <id>urn:uuid:3b650a1b-5fb5-4c72-800e-acb1cfa1fdd9</id>
 <updated>2020-06-05T12:16Z</updated>
 <published>2020-02-03T12:00Z</published>
-<content type="html">&lt;article>
-&lt;h1>The Dashboard&lt;/h1>
-&lt;h2 class="subtitle">Its Etymology and Function&lt;/h2>
+<content type="html"><![CDATA[<article>
+<h1>The Dashboard</h1>
+<h2 class="subtitle">Its Etymology and Function</h2>
 
-&lt;img class="main" src="../image/dashboard.png">
+<img class="main" src="../image/dashboard.png">
 
-&lt;p>
+<p>
 When hearing the word "dashboard", perhaps two definitions spring to mind. The
 first and most common is the dashboard of a car, with its instruments that
 provide important but secondary information. The primary information being that
@@ -28,21 +28,21 @@ that it can be monitored. How truly useful that information is in a specific
 dashboard is variable, many professionals relying heavily on some specific
 dashboard, others being keenly aware that such-and-such a dashboard is utterly
 useless.
-&lt;/p>
+</p>
 
-&lt;p>
+<p>
 But the word "dashboard" itself used to have nothing to do with
 displaying information. A folk etymology may go something like: a
 dashboard is a board that information "dashes" to, or one that
 someone can "read in a dash". Here dash conveys the meaning of speed or
 quickness, but in dashboard's original usage dash was used to mean "hit",
-such as in the phrase "the ship was &lt;em>dashed&lt;/em> against the rocks". The
+such as in the phrase "the ship was <em>dashed</em> against the rocks". The
 dashboard was the board of the carriage that protected the passengers from the
-mud that was kicked up by horses. It was a board for that mud to &lt;a href="https://www.etymonline.com/word/dashboard" title="dashboard at
-    Etymology Online Dictionary">dash against&lt;/a>.
-&lt;/p>
+mud that was kicked up by horses. It was a board for that mud to <a href="https://www.etymonline.com/word/dashboard" title="dashboard at
+    Etymology Online Dictionary">dash against</a>.
+</p>
 
-&lt;p>
+<p>
 From that, the "dashboard" of a car comes naturally from its position in the
 car which mirrored that of the dashboard of the carriage. While the dashboard
 in a computer application comes thence by their common usage for
@@ -51,11 +51,11 @@ before the term was applied to them. They were precursed by programs designed to
 high-level data to executives for making business decisions (still a primary
 purpose of the modern dashboard, although now not the only one), which— like
 another overly-ambitious-and-ultimately-doomed-to-fail program concepts of the
-80s: "expert systems"— was given a very literal named that ended in the very generic "systems", namely &lt;a href="https://en.wikipedia.org/wiki/Executive_information_system">"executive
-information systems"&lt;/a>.
-&lt;/p>
+80s: "expert systems"— was given a very literal named that ended in the very generic "systems", namely <a href="https://en.wikipedia.org/wiki/Executive_information_system">"executive
+information systems"</a>.
+</p>
 
-&lt;p>
+<p>
 So our conception of the sleek, modern, web app dashboard emerges from two veins of
 history, one formal and one material. The latter gives it the lofty role of
 providing all the critical information necessary to business executives needed
@@ -64,43 +64,43 @@ importance and significance, but also detachment, without detail,
 corporate) and the former gives it the role of catching mud. The
 analogy takes form: the dashboards conjoin and the information dashed
 against our computer screens is seen for what it is, mud kicked up by horses.
-&lt;/p>
+</p>
 
-&lt;p>
+<p>
 For the 19th century carriage driver though, it is the horses, the road, and the
 carriage itself that they watch when driving. Even for the automobile driver
 the dashboard is secondary. The experienced drivers watches the car and the road
 first. But if the executives are as they would
 like to position themselves in the metaphor of the carriage as the company,
 as being the drivers of the cart, then they are not the proper, trained and elegant
-carriage drivers purported, but rather has been inaugurated&lt;sup id="ref-1-1">&lt;a href="#note-1" title="On the word &quot;inaugurated&quot;">1&lt;/a>&lt;/sup>
+carriage drivers purported, but rather has been inaugurated<sup id="ref-1-1"><a href="#note-1" title="On the word &quot;inaugurated&quot;">1</a></sup>
 as the corporate diviner, the hierophant who alone has the privilege to speak
 with the gods. They in their folly try to read the patterns of mud on the
-dashboard, patterns which must, as &lt;em>hard numbers&lt;/em> and &lt;em>descriptive
-charts&lt;/em> must, give all the bits and pieces needed to turn the carriage left
+dashboard, patterns which must, as <em>hard numbers</em> and <em>descriptive
+charts</em> must, give all the bits and pieces needed to turn the carriage left
 or right, or hire and fire this employee or that, or work with some partner
 company or another.
-&lt;/p>
+</p>
 
-&lt;p>
+<p>
 And this is no trifle of a comparison! Businesses are no longer physical things,
 but rather aggregates of arcane numbers. To the manager of the rank-and-file
 worker, regardless of how many will purport otherwise, what matters is not the
 person who is the worker themself, their skill and ability, their personality or candor.
 No! All those are secondary. What matters is whatever arbitrary
 measure of performance has been decided on by the manager or their
-superiors.&lt;sup id="ref-2-1">&lt;a href="#note-2" title="On the word &quot;superior&quot;">2&lt;/a>&lt;/sup> Even when it is clear that
+superiors.<sup id="ref-2-1"><a href="#note-2" title="On the word &quot;superior&quot;">2</a></sup> Even when it is clear that
 the numbers are meaningless, and admitted so by those using them, they must be
 had. For to have no numbers is to be blind! There is no longer any other path
 to understanding.
-&lt;/p>
+</p>
 
-&lt;p class="quote">
+<p class="quote">
 No longer is the "measure" an approximation of the real, it is now the
-&lt;strong>real itself!&lt;/strong>
-&lt;/p>
+<strong>real itself!</strong>
+</p>
 
-&lt;p>
+<p>
 And this applies equally to those above the manager, who invoke similar
 measures, and then all the way up the priestly hierarchy to the executives and CEO, whose
 decisions, companies and lives are ultimately at the whim of the one superior
@@ -111,12 +111,12 @@ profit margins. But for the majority, these fluxes of capital value comes throug
 strange machine with a plethora gauges, dials, buttons and gizmos. So many that one of
 those experts of the stock market has taken to calling the movement of stock
 prices a "Random Walk".
-&lt;/p>
+</p>
 
-&lt;p>
+<p>
 Of course, for all those professional investors whose esoteric methods of "analysis" are
-&lt;a href="https://us.spindices.com/documents/spiva/spiva-us-year-end-2016.pdf?mod=article_inline" title="SPIVA U.S. Year-End 2016 Scorecard">not
-sufficient to beat the index&lt;/a>, there are some who are blessed with the actual
+<a href="https://us.spindices.com/documents/spiva/spiva-us-year-end-2016.pdf?mod=article_inline" title="SPIVA U.S. Year-End 2016 Scorecard">not
+sufficient to beat the index</a>, there are some who are blessed with the actual
 ability to commune with the corporate gods. Of course this direct communication
 with the gods of the stock market, those who cause tickers to rise and fall as
 Luna does the tides, is condemned (when made public) as the blasphemous "insider
@@ -131,11 +131,11 @@ of one's growing coffers, have become as removed from reality an urban
 astrologist who can no longer even find Venus in the night sky (or see it if
 they found it) is disconnected from any astronomical (or even
 astrological!) meaning. At least W.D. Gann was honest to his methodology.
-&lt;/p>
+</p>
 
-&lt;p>
+<p>
 One of the great new tricks of the contemporary era is to make us all
-think that we are investors.&lt;sup id="ref-3-1">&lt;a href="#note-3" title="">3&lt;/a>&lt;/sup>
+think that we are investors.<sup id="ref-3-1"><a href="#note-3" title="">3</a></sup>
 Another is that executives are no more and we are all one family, giving the rest of us
 in turn the faux appearance that we must be invested in the company's outcome to
 the extent that an executive is, while failing in truth to give us their powers.
@@ -147,9 +147,9 @@ invest. The poor still are doomed to be poor. And as our retirement money is tur
 into the loathsome tool for capitalist speculation that is the 401k and its ilk,
 the corporate world teaches, through dashboards and propaganda, that we are the
 numbers we see on the screen.
-&lt;/p>
+</p>
 
-&lt;p>
+<p>
 Numbers are inculcated into the psyches of executives, managers and bankers
 today as much as those of the call center worker who knows that if they do not
 meet their quota they will be canned. They manifest in the factory worker (be it
@@ -164,25 +164,25 @@ compassion or to give people autonomy, it would undermine its own nature. It
 would be denying its own truth, that there is no measure of happiness or success
 other than net worth, the only number that makes anyone worthy of
 anything.
-&lt;/p>
+</p>
 
 
 
 
 
-&lt;hr>
+<hr>
 
-&lt;footer id="notes">
-&lt;h2>Notes&lt;/h2>
-&lt;ol>
-    &lt;li id="note-1">
-        &lt;p>
-        An &lt;strong>in&lt;em>augur&lt;/em>ation&lt;/strong> is the formal ceremony by which
+<footer id="notes">
+<h2>Notes</h2>
+<ol>
+    <li id="note-1">
+        <p>
+        An <strong>in<em>augur</em>ation</strong> is the formal ceremony by which
         one is inducted into an office of power. It is cognate with the English
-        "augur" which both come through Latin from the PIE root &lt;a href="https://www.etymonline.com/word/*aug-?ref=etymonline_crossreference#etymonline_v_52551" title="*aug- at Etymology Online">*aug-&lt;/a>. The &lt;em>augur&lt;/em> was a
+        "augur" which both come through Latin from the PIE root <a href="https://www.etymonline.com/word/*aug-?ref=etymonline_crossreference#etymonline_v_52551" title="*aug- at Etymology Online">*aug-</a>. The <em>augur</em> was a
         role in Roman society who were diviners who worked by the motion birds,
         weather phenomena and how hens ate the feed spread on the ground for
-        them. The connection to the word "&lt;em>au&lt;/em>thority" has an interesting
+        them. The connection to the word "<em>au</em>thority" has an interesting
         twist too, for when the Roman general went into battle, the augur performed a
         sacrifice to determine the auspices for the battle's outcome. And if the
         auspices were not favorable, they would wait for the next day and then
@@ -191,31 +191,31 @@ anything.
         both appeal to their own manifestations of divinity, the Executives who
         manifest the divinity of Capital and the Roman Emperor who manifests the divinity
         of Rome.
-        &lt;/p>
-        &lt;p>
+        </p>
+        <p>
         The further connections to the inauguration of our political figures,
         who each truly only exists as a symbol that extrudes the zeitgeist of their
         era, as the sceptre of authority itself and not its wielder, is not far behind.
-        &lt;/p>
-    &lt;/li>
-    &lt;li id="note-2">
-        &lt;p>
+        </p>
+    </li>
+    <li id="note-2">
+        <p>
         For the authority of the corporate hierarchy
         implies superiority. But as this superiority comes from
         augury as much as from authority, it is entirely religious in nature.
-        &lt;/p>
-    &lt;/li>
-    &lt;li id="note-3">
-        &lt;p>
+        </p>
+    </li>
+    <li id="note-3">
+        <p>
         Through the replacement of pension plans with 401ks that are investment
         tools, through the increase in employee stock options which give minimal
         amounts stock, and the rise of personal investment tools that purport to
         make investing a thing the whole family can enjoy.
-        &lt;/p>
-    &lt;/li>
-&lt;/ol>
-&lt;/footer>
-&lt;/article></content>
+        </p>
+    </li>
+</ol>
+</footer>
+</article>]]></content>
 <author><name>Philoponus Bindle</name></author>
 </entry><entry><title>
 The Necroscholastic
@@ -225,29 +225,29 @@ The Necroscholastic
 <id>urn:uuid:62137a88-28c5-431a-a09d-cdeaadaaa3ee</id>
 <updated>2020-06-10T23:18Z</updated>
 <published>2020-06-10T12:00Z</published>
-<content type="html">&lt;article>
-&lt;h1>
+<content type="html"><![CDATA[<article>
+<h1>
 The Necroscholastic
-&lt;/h1>
+</h1>
 
-&lt;div class="quote">
-  &lt;p>
+<div class="quote">
+  <p>
   It is in the nature of reason to perceive things truly, that is to say, as they
   are in themselves, that is to say, not as contingent but as necessary.
-  &lt;/p>
+  </p>
 
-  &lt;p>
-  Hence it follows that it is through the &lt;em>imagination&lt;/em> alone that we
+  <p>
+  Hence it follows that it is through the <em>imagination</em> alone that we
   look upon things as contingent both with reference to the past and the
   future.
-  &lt;/p>
+  </p>
 
-  &lt;div class="quote-name">
-    &mdash;&lt;a href="https://www.gutenberg.org/files/31205/31205-h/31205-h.htm#Page_182">Baruch Spinoza&lt;/a>
-  &lt;/div>
-&lt;/div>
+  <div class="quote-name">
+    &mdash;<a href="https://www.gutenberg.org/files/31205/31205-h/31205-h.htm#Page_182">Baruch Spinoza</a>
+  </div>
+</div>
 
-&lt;p>
+<p>
 I am not a scholastic. I am a necroscholastic. The scholars of our traditions
 and histories, those upon which we are expected to comment or expound (and
 today there is really only commentary) does not need to be reconciled with
@@ -256,9 +256,9 @@ intention to be particular to the intention of any author &mdash; which was the
 vanity of the neoplatonists to reconcile Plato and Aristotle, which was the vanity
 of the positivists to incorporate the mystical Wittgenstein into themselves
 &mdash; but rather to construct my own meaning, my own figure of the past.
-&lt;/p>
+</p>
 
-&lt;p>
+<p>
 This is no revision of the past, but rather it is the absence of the
 stubbornness that leads to its revision! The past is not a solid thing: every
 act of history is a construction, an act of will in the imagination, as much as
@@ -267,9 +267,9 @@ unconsciously or consciously. So I, longing for a another, better world,
 choose to prefigure the future I desire. While beginning from them, I do not
 necessarily to hold our ancestors or traditions in esteem: I transform them,
 laud those I desire, and condemn those I despise.
-&lt;/p>
+</p>
 
-&lt;p>
+<p>
 Recently, there has been some talk of toppling statues of confederate soldiers
 &mdash; monuments to genocide, monuments that must be transformed through their
 destruction &mdash; and from that some more talk of toppling the statues of
@@ -277,24 +277,24 @@ other "historical" figures, notably Christopher Columbus &mdash; that other
 great symbol of American genocide. The response to the latter however, has been
 less enthusiastic, it being likened to a denial of history, or a denial of the
 history's nuance or its "greyness", and likened to the stagnation of history in
-Orwell's &lt;em>1984&lt;/em> that comes from the Party's repression of the
+Orwell's <em>1984</em> that comes from the Party's repression of the
 possibility of change in the minds of its citizens... but this repression of
 possibility is verily rather this conception that "history is too nuanced to
 make real moral decisions about the characters of the past." That paralysis of
 action that comes from the ever-contemplative and the indefinite suspension of
 judgement. It is less important to me to take history within the context of the
 past than it is to take it within the context of the future.
-&lt;/p>
+</p>
 
-&lt;p>
+<p>
 Nuance can explain, but it does not excuse. This is true of ideology as well as
 of tradition, philosophy as well as history. Do not tell me that the anarchist
 excuses the antisemitism of Proudhon, or the thelemite the sexism of Éliphas
 Lévi. So destroy, tear down the monuments to the past you detest, and resurrect
 only those of you choose to.
-&lt;/p>
+</p>
 
-&lt;p>
+<p>
 Though I sometimes read the scholastics, there is no need to really read them.
 Only to resurrect their words in our own image: to transfigure the past into the
 future that we desire. To take our traditions and interpret them in our own
@@ -302,11 +302,39 @@ image. To manifest in the images of the collective unconscious from which we
 find ourselves expelled those of our conscious, those of our individuation from
 the collective, and to will and to imagine, to make new collectives on the
 frontier of the unconscious.
-&lt;/p>
+</p>
 
 
 
-&lt;/article></content>
+</article>]]></content>
+<author><name>Philoponus Bindle</name></author>
+</entry><entry><title>Not by speeches</title>
+
+<link href="https://philoponus.net/poem/not-by-speeches.html"/>
+<id>urn:uuid:fdffc1cc-dd5e-4b6d-bad6-a344b29ab523</id>
+<updated>2020-11-16T19:14Z</updated>
+<published>2020-06-28T12:00Z</published>
+<content type="html"><![CDATA[<article>
+<h1>Not by speeches</h1>
+
+<p>
+It's not by speeches that the crowd moves<br>
+Or by the empty faces on the screen<br>
+When the crowd becomes<br>
+&emsp;&emsp;when it emerges<br>
+&emsp;&emsp;it moves by the heart<br>
+A turbid river is the waves of the heart<br>
+Its rapids roll with fervor<br>
+Smashing unsavory boats in its tumbles<br>
+Its water irrigates fields<br>
+Giving life to new plants<br>
+And rejuvenating the soul<br>
+</p>
+
+
+<div class="place">at Abolition Park</div>
+
+</article>]]></content>
 <author><name>Philoponus Bindle</name></author>
 </entry><entry><title>Alice and Zooks</title>
 
@@ -314,39 +342,39 @@ frontier of the unconscious.
 <id>urn:uuid:40a26d1d-ad70-49e4-a75d-41052e053ccc</id>
 <updated>2020-06-05T12:16Z</updated>
 <published>2019-12-13T12:00Z</published>
-<content type="html">&lt;article>
-&lt;h1>Alice and Zooks&lt;/h1>
+<content type="html"><![CDATA[<article>
+<h1>Alice and Zooks</h1>
 
-&lt;p>
+<p>
 Round the notsoround (mostly jagged) rock of swiveling shoally shore of the
 stream-not-yet-a-river in banded banter Alice and Zooks juanted along most
 merrily, to fritter away the times of their youth in a not unfounded fear of it
 passing away, or of it becoming something else entirely.
-&lt;/p>
+</p>
 
-&lt;p>
+<p>
 "Pictures go into eyes, and words come out of the mouth, but they both go
 through the head, which is why we can say things that refer to things."
-&lt;/p>
+</p>
 
-&lt;p>
+<p>
 "But whats in the head doing all that translating work? Seems awfully difficult
 to me; I doubt I could do it if I set me mind upon it. And besides be that for
 you the last time your head rattled around it sounded hollower than me
 grandmother's bone marrow."
-&lt;/p>
+</p>
 
-&lt;p>
+<p>
 "But I spoke just before and you understood, verily so? Twould be a twiddle of
 muppery muffins and then some if not!"
-&lt;/p>
+</p>
 
-&lt;p>
+<p>
 "Twould be, but twas a ghost that brought our bodies here to this stream, the
 oeuvre of the day and of our heads!"
-&lt;/p>
+</p>
 
-&lt;p>
+<p>
 With that the young Jungians of symbol galore brught theemselves forthswitcht to a
 moorish mood, for they remembered that streams always turn to rivers lest they
 run dry and fizzle to fuzz, and their filosophistical theories, the prowess and
@@ -362,10 +390,10 @@ surfaces, even at the highest points of their tidal motion. Alas these two are
 influential in their fields. But let us curl the stream of antipurposeful
 digress to regress back upon itself to return to the subject(s) of Alice and
 Zooks. They were not much in the way of scientists.
-&lt;/p>
+</p>
 
 
 
-&lt;/article></content>
+</article>]]></content>
 <author><name>Philoponus Bindle</name></author>
 </entry></feed>
