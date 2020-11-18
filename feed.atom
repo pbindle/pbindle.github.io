@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom"><title>The "humble" blog of Philoponus Bindle</title>
 <link href="https://philoponus.net"/>
 <id>urn:uuid:95b20367-b6b8-4f66-9985-9c58d76aa8b6</id>
-<updated>2020-11-16T19:14Z</updated>
+<updated>2020-11-17T20:31Z</updated>
 <author><name>Philoponus Bindle</name></author>
 <entry><title>The Dashboard</title>
 <subtitle>Its Etymology and Function</subtitle>
@@ -302,6 +302,33 @@ image. To manifest in the images of the collective unconscious from which we
 find ourselves expelled those of our conscious, those of our individuation from
 the collective, and to will and to imagine, to make new collectives on the
 frontier of the unconscious.
+</p>
+
+
+
+</article>]]></content>
+<author><name>Philoponus Bindle</name></author>
+</entry><entry><title>A shape in the rain</title>
+
+<link href="https://philoponus.net/poem/a-shape-in-the-rain.html"/>
+<id>urn:uuid:74b5f786-697e-4d6e-af7c-f39886688fdc</id>
+<updated>2020-11-17T20:31Z</updated>
+<published>2020-05-30T12:00Z</published>
+<content type="html"><![CDATA[<article>
+<h1>A shape in the rain</h1>
+
+<p>
+<div>It's raining,</div>
+<div style="margin-left: 5ch; margin-top: .5em">late night</div>
+<div style="margin-left: 10ch; margin-top: .6em">under the awning across the street</div>
+<div style="margin-left: 10.5ch; margin-top: .3em">the flash of a lighter, <span style="letter-spacing: 2px">the glow of a cigarette</span></div>
+<div style="margin-left: 49.9ch; margin-top: .6em">a dark face</div>
+<div style="margin-left: 4ch; margin-top: 1.2em; letter-spacing: 2px">rain taps a static melody</div>
+<div style="margin-left: 6ch; margin-top: .45em; letter-spacing: 3px">on the umbrella above me</div>
+<div style="margin-left: 12.5ch; margin-top: 1.2em; letter-spacing: 5px">my <span style="margin-left: 4.5ch">eyes</span> <span style="margin-left: 12.5ch; letter-spacing: 9px">linger</span></div>
+<div style="margin-left: 11ch; margin-top: .8em; letter-spacing: 3px">I turn</div>
+<div style="margin-left: 6ch; margin-top: .9em; letter-spacing: 2.5px">away</div>
+<div style="margin-left: 1ch; margin-top: .3em">and <span style="margin-left: .5ch; margin-right: .5ch">resume</span> my pace.</div>
 </p>
 
 
